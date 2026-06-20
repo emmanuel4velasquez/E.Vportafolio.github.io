@@ -1,13 +1,13 @@
 export const SITE = {
   site: {
-    url: "https://gianmarcocavallo.com/",
+    url: "https://EmmanuelVelasquez.com/",
   },
   author: {
-    firstName: "Gianmarco",
-    lastName: "Cavallo",
-    fullName: "Gianmarco Cavallo",
-    shortName: "Gianmarco",
-    jobTitle: "Freelance Full Stack Developer",
+    firstName: "Emmanuel",
+    lastName: "Velasquez",
+    fullName: "Emmanuel velasquez",
+    shortName: "Emmanuel",
+    jobTitle: "Marketing y negocios, herramientas digitales",
     twitterHandle: "gianmarcocavallo", // without "@"
   },
   location: {
