@@ -1,6 +1,6 @@
 export const SITE = {
   site: {
-    url: "https://EmmanuelVelasquez.com/",
+    url: "https://Emmanuel4Velasquez.github.io",
   },
   author: {
     firstName: "Emmanuel",
