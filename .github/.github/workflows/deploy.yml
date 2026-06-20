@@ -1,4 +1,4 @@
-name: Desplegar Portafolio Astro
+name: Deploy to GitHub pages
 
 on:
   # Se ejecuta cuando se hace un push a la rama principal (main o master)
